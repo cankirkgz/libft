@@ -12,7 +12,7 @@ This library will provide a strong foundation for students to use in larger C pr
 
 The contents of the project can be summarized as follows:
 
-Standard library functions
+Standard library functions\n
 Functions related to arrays
 Character functions
 Memory functions
